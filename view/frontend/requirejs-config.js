@@ -2,7 +2,7 @@ var config = {
     config: {
         mixins: {
             'Magento_Theme/js/view/messages': {
-                'Excellence_UkOnly/js/view/messages-mixin': true
+                'Excellence_CountryRestriction/js/view/messages-mixin': true
             }
         }
     }
